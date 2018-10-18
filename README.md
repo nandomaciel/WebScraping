@@ -2,7 +2,7 @@
 
 # Parte I
 
- 1.  Seu primeiro web scraper
+ 1.  [Seu primeiro web scraper](WS/capitulo_1.ipynb)
  2. Análise de HTML avançada
  3. Começando a rastrear
  4. Usando APIs
